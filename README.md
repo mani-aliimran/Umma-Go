@@ -3,9 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>
-		Umma Go
-	</title>
+    <title>Umma Go</title>
 </head>
 <body>
      <h2>
